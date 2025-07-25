@@ -15,17 +15,3 @@ A computer vision game that lets you match shapes using hand gestures. Pinch to 
 
 - Python 3.8+
 - Webcam
-
-# Project Structure
-gesture-shape-matcher/
-├── game.py               # Main game logic
-├── shape.py              # Shape generator utility
-├── requirements.txt      # Dependencies
-├── README.md             # This file
-├── LICENSE               # MIT License
-└── assets/
-    ├── shape_circle.png
-    ├── shape_square.png
-    ├── shape_rectangle.png
-    ├── shape_triangle.png
-    └── success.wav
